@@ -4,7 +4,8 @@ Unicorn HQ MP Mission
 
 #----- CREDITS -----#
 
-We used the MissionFiles from [FPS]kuplion as a foundation and edited it to our need https://github.com/kuplion/Exile-Chernarus
+We used the MissionFiles from [FPS]kuplion as a foundation and edited it to our need https://github.com/kuplion/Exile-Chernarus 
+
 We used the Loot Positions from  https://github.com/Beowulfv/OCP_lootSpawns in the beginning
 
 #-------------------#
