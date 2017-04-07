@@ -12,10 +12,15 @@ We used the Loot Positions from  https://github.com/Beowulfv/OCP_lootSpawns in t
 
 #---- Changelog ----#
 
-upcoming v0.3
-- Finish the Military Zones (Staroy and North-East of the Map)
-- New Custom Loot Positions for Every Building of OCP/Chernarus Winter + Military Buildings
+upcoming v0.4
+- Finish the Military Zones (North-East of the Map)
+- New Custom Loot Positions Fine-Tuning
 - Add Custom/Black Market Trader
+
+v0.3
+- Finished Military Loot Spot Zeleno, Staroy
+- Finished Custom Loot Positions for Every Build of OCP/CHernarus Winter + Military Building
+- Updated missions.sqm
 
 v0.2
 - Trader Positions changed (2 Normal Trader + 1 Aircraft Trader)

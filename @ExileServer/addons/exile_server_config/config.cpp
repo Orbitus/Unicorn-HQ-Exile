@@ -23,7 +23,7 @@ class CfgPatches
 };
 
 // Chernarus Loot Positions - Replaced CfgBuildings
-#include "chernarusLootBuildings.cpp"
+#include "lootpositions.cpp"
 // Chernarus Loot Positions - Replaced CfgBuildings
 
 class CfgLootTables
